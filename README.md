@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-
-**jcarlosad7/jcarlosad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Pontificia Universidad Católica del Perú, Universidad Seño de Sipán, Cognity SAC
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Cognity SAC
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working at the Vice-Rectorate of Research of the Universidad Señor de Sipán.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m a Manager in my company Cognity S.A.C.
+- 💬 Ask me about Investigation, Machine Learning and Software development.
+- 📫 How to reach me: jcarlos.ad7@gmail.com
 
